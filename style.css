@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(70, 70, 70);
+}
+p{
+    color:white;
+}
+#p1{
+    color:rgb(211, 160, 159);
+}
+#p2{
+    border-style:solid;
+    border-width: 4px;
+    border-color:pink;
+    border-radius: 10px;
+    padding: 5px;
+    color:white;
+    font-size: 20px;
+    
+}

@@ -1,5 +1,7 @@
 body{
-    background-color: rgb(70, 70, 70);
+    background: linear-gradient(rgb(211, 160, 159), rgb(119, 113, 113));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 p{
     color:white;

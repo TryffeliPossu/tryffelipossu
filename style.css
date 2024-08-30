@@ -1,7 +1,9 @@
 body{
-    background: linear-gradient(rgb(211, 160, 159), rgb(119, 113, 113));
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-image: url(Wallpaper1.jpg);
+    background-size: cover;
+    border-top: 5px;
+    border-left: 5px;
+
 }
 p{
     color:white;
@@ -12,10 +14,13 @@ p{
 #p2{
     border-style:solid;
     border-width: 4px;
-    border-color:pink;
+    border-color:rgb(255, 161, 177);
     border-radius: 10px;
     padding: 5px;
     color:white;
     font-size: 20px;
-    
+    background: linear-gradient(rgb(211, 160, 159), rgb(247, 191, 191));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
 }
